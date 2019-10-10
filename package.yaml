@@ -1,0 +1,14 @@
+name:                rc-parser
+version:             0.1.0.0
+homepage:            https://gitlab.com/1000000000/rc-parser#readme
+license:             BSD3
+author:              Max Hallinan, Louis Hyde
+category:            Parser
+extra-source-files:
+- README.md
+
+dependencies:
+  - base >= 4.7 && < 5
+
+library:
+  source-dirs:      src
